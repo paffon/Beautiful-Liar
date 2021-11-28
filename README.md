@@ -31,7 +31,7 @@ The numbers which turned up to be false-witnesses the most times were:
 
 (256, 123)
 
-Nice to see that these biggest liars are all powers of primes:
+Nice to see that these biggest liars are all (almost) powers of primes:
 
 2401  =7  ^ 4
 
@@ -47,7 +47,7 @@ Nice to see that these biggest liars are all powers of primes:
 
 4096  =2  ^ 12
 
-4225  =65 ^ 2
+4225  =65 ^ 2 <= 65 isn't a prime!
 
 3481  =59 ^ 2
 
